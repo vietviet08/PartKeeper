@@ -8,7 +8,7 @@ public class JDBCUntil {
 	public static Connection getConnection() {
 		Connection c = null;
 		try {
-			c = DriverManager.getConnection("jdbc:mySQL://localhost:3306/quanlilkmt", "root", "");
+			c = DriverManager.getConnection("jdbc:mySQL://localhost:3307/quanlilkmt", "root", "");
 			if (c != null) {
 				System.out.println("ket noi thanh cong");
 			}

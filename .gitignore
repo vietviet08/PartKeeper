@@ -2,3 +2,4 @@
 /image
 /mysql_data
 *.jar
+bin/

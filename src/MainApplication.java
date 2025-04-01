@@ -1,4 +1,3 @@
-
 import view.LoginForm;
 
 public class MainApplication {

@@ -308,7 +308,7 @@ public class LoginForm extends JFrame {
 		lblNewLabel_2_1.setBounds(86, 402, 114, 17);
 		panelLogin.add(lblNewLabel_2_1);
 
-		JLabel lblNewLabel_3 = new JLabel("© 2023 NGUYỄN QUỐC VIỆT - 23CE.B029");
+		JLabel lblNewLabel_3 = new JLabel("© 2023 NGUYỄN QUỐC VIỆT - 23CE.B029 updates");
 		lblNewLabel_3.setFont(font);
 		lblNewLabel_3.setForeground(Color.BLACK);
 		lblNewLabel_3.setHorizontalAlignment(SwingConstants.CENTER);
